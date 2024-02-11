@@ -1,1 +1,2 @@
 creacion del fichero2
+f2
